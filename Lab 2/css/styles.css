@@ -1,0 +1,98 @@
+body {
+    background-color: #DBA999(177, 25, 182);
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+#container {
+    background-color: peachpuff;
+    Width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+header {
+    padding-top: 20px;
+    background-color: peachpuff;
+    border-radius: 20px 20px 0 0;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+header img {
+    display: block;
+    width: 35%;
+    margin: 20px auto;
+}
+
+header h1{
+    font-size: 2.5em;
+    text-align: center;
+    color: olivedrab
+}
+
+nav {
+    background-color: peru;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: olivedrab;
+    height: 40px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 40px;
+    color:peru;
+    text-decoration: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color:powderblue;
+    color:olivedrab;
+}
+
+main {
+background-color: olivedrab;
+padding: 20px;
+margin: 0 20px 20px 20px;
+}
+
+main h2{
+    text-align: center;
+    color: plum;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+}
+
+main img{
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    background-color:plum;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: peachpuff;
+    padding: 40px 0;
+    color:peru;
+    font-size: 1.5em;
+    text-align: center;
+border-radius: 0 0 20px 20px;
+}
+
+.active {
+    background-color:powderblue;
+    color:olivedrab;
+}
+
+.pro_head {
+    text-align: center;
+    color:saddlebrown;
+    font-size: 1.5em;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
